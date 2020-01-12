@@ -1,0 +1,3 @@
+model_checkpoint_path: "ex_time_series_model_codealong"
+all_model_checkpoint_paths: "ex_time_series_model"
+all_model_checkpoint_paths: "ex_time_series_model_codealong"
